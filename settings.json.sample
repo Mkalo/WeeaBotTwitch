@@ -1,0 +1,8 @@
+{
+    "mongodb": "mongodb://127.0.0.1:27017/WeeaBot",
+    "osu_user": "YOUR_OSU_USERNAME",
+    "osu_password": "YOUR_OSU_IRC_PASS",
+    "osu_api_key": "YOUR_OSU_API_KEY",
+    "twitch_user": "YOUR_TWITCH_USERNAME",
+    "twitch_password": "YOUR_TWITCH_OAUTH_PASSWORD"
+}
